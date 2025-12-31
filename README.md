@@ -28,7 +28,6 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 | **Languages**             | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />                                                                                                                                                                                                                                                                                                                                                            |
 | **Frontend Technologies** | <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" /> ![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=react-router) <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> |
 
-|
 | **Back-End Development** | <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-339933?logo=next.js&logoColor=white" />   <img src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white" /> |
 | **Database** | <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>|
 
