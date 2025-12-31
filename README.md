@@ -3,8 +3,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Arju Hasan</h1> -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arju95/">👋
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+this+is+Arju+Hasan" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/arju95/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=%F0%9F%91%8B+Hello+there%2C+this+is+Arju+Hasan" />
 </a>
 
 </p>
