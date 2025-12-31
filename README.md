@@ -32,20 +32,6 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 ![](https://nirzak-streak-stats.vercel.app/?user=arju-Hasan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arju-Hasan&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=arju-Hasan&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=true&layout=compact" />
-</p>
-
 ## 🛠️ Tech Stack & Tools
 
 | **Category**              | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -57,3 +43,9 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 | **Tools & Platforms**     | <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />  |
 | **Deployment**            | <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />                                                                                                                                                                                     |
 | **Design & Graphics**     | <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" />                                                                                                                                                                   |
+
+## ☕ Connect with me!
+
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/arju95) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/95arjuhasan/)[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/dev_arju95)[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/arju95/)
+<br>
+<br>
