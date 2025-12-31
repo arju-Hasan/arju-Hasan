@@ -2,8 +2,8 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Arju Hasan</h1> -->
 
-👋<p align="center">
-<a href="https://git.io/typing-svg">
+<p align="center">
+<a href="https://www.linkedin.com/in/arju95/">👋
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+this+is+Arju+Hasan" alt="Typing SVG" />
 </a>
 
