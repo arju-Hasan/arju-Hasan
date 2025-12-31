@@ -2,7 +2,12 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Arju Hasan</h1> -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+this+is+Arju+Hasan" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋Hello+there%2C+this+is+Arju+Hasan" alt="Typing SVG" />
+  </a>
+</p>
+
 <br/>
 
 <h3 align="center">A passionate MERN stack developer</h3>
@@ -21,11 +26,19 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 - 📫 Email: **arju3h@gmail.com**
 - 📍 Mirpur-10, Dhaka, Bangladesh
 
-# 📊 GitHub Stats:
+<h2>📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arju-Hasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arju-Hasan&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=arju-Hasan&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=true&layout=compact" />
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
