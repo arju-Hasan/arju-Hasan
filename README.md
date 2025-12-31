@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arju95/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=%F0%9F%91%8B+Hello+there%2C+this+is+Arju+Hasan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=%F0%9F%91%8B+Hello+there%2C+i+am+Arju+Hasan" />
 </a>
 
 </p>
