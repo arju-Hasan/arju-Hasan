@@ -27,17 +27,13 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 - 📫 Email: **arju3h@gmail.com**
 - 📍 Mirpur-10, Dhaka, Bangladesh
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arju-Hasan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arju-Hasan&show_icons=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&layout=compact&theme=default)
 
 
 ## 🛠️ Tech Stack & Tools
