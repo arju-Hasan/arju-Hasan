@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate MERN Stack developer in progress, focused on building modern, scalable, and user-friendly web applications. I enjoy working with HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, Express.js, and MongoDB.
+I am a passionate MERN Stack developer in progress, focused on building modern, scalable, and user-friendly web applications. I enjoy working with **HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, Express.js, and MongoDB**.
 
 Currently, I am strengthening my backend development and API design skills to grow into a well-rounded full-stack developer. I am driven by hands-on learning, real-world projects, and continuous improvement.
 
