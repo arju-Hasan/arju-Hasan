@@ -44,7 +44,7 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
   </tr>
 </table>
 
-[![Alfe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arju-Hasane&theme=gotham)](https://github.com/arju-Hasan)
+[![Alfe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arju-Hasan&theme=gotham)](https://github.com/arju-Hasan)
 
 <!-- ## 📊 GitHub Stats:
 
