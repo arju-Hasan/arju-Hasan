@@ -29,9 +29,28 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 
 ## 📊 GitHub Stats:
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pipaliyajaydip">
+        <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=arju-Hasan&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pipaliyajaydip">
+        <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=arju-Hasan&theme=radical" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+[![Alfe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arju-Hasane&theme=gotham)](https://github.com/arju-Hasan)
+
+<!-- ## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arju-Hasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
 
