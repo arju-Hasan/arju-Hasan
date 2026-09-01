@@ -27,6 +27,9 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 - 📫 Email: **arju3h@gmail.com**
 - 📍 Mirpur-10, Dhaka, Bangladesh
 
+    <!-- Unique Visitors (Cyan) -->
+  <img src="https://komarev.com/ghpvc/?username=arju-Hasan&label=UNIQUE%20VISITORS&color=00d2ff&style=for-the-badge" alt="Unique Visitors"/>
+
 ## 📊 GitHub Stats:
 
 <table>
