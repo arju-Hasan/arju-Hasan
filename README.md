@@ -45,6 +45,28 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/arju-Hasan">
+        <img
+          src="https://github-readme-stats-plum-nine.vercel.app/api?username=arju-Hasan&show_icons=true&theme=radical"
+          alt="Arju Hasan GitHub Stats"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arju-Hasan">
+        <img
+          src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=arju-Hasan&theme=radical"
+          alt="Arju Hasan GitHub Streak"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arju-Hasan&theme=tokyonight&hide_border=true)](https://github.com/arju-Hasan)
 ![Arju Hasan's GitHub Activity Graph](https://github-activity-graph-omega.vercel.app/graph?username=arju-Hasan&theme=tokyo-night&hide_border=true)
 
