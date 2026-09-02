@@ -27,8 +27,6 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 - 📫 Email: **arju3h@gmail.com**
 - 📍 Mirpur-10, Dhaka, Bangladesh
 
-    <!-- Unique Visitors (Cyan) -->
-  <img src="https://komarev.com/ghpvc/?username=arju-Hasan&label=UNIQUE%20VISITORS&color=00d2ff&style=for-the-badge" alt="Unique Visitors"/>
 
 ## 📊 GitHub Stats:
 
@@ -49,11 +47,11 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 
 [![Alfe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arju-Hasan&theme=gotham)](https://github.com/arju-Hasan)
 
-<!-- ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arju-Hasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 
 
