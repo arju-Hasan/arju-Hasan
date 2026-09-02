@@ -33,23 +33,25 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/pipaliyajaydip">
-        <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=arju-Hasan&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <a href="https://github.com/arju-Hasan">
+        <img
+          src="https://github-readme-stats-plum-nine.vercel.app/api?username=arju-Hasan&show_icons=true&theme=tokyonight"
+          alt="GitHub Stats"
+        />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pipaliyajaydip">
-        <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=arju-Hasan&theme=radical" alt="GitHub Streak" />
+      <a href="https://github.com/arju-Hasan">
+        <img
+          src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=arju-Hasan&theme=tokyonight"
+          alt="GitHub Streak"
+        />
       </a>
     </td>
   </tr>
 </table>
 
-[![Arju Hasan's Activity Graph](https://github-activity-graph-omega.vercel.app/graph?username=arju-Hasan&theme=gotham)](https://github.com/arju-Hasan)
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=arju-Hasan&theme=tokyonight&hide_border=true)](https://github.com/arju-Hasan) 
-![Arju Hasan's GitHub Activity Graph](https://github-activity-graph-omega.vercel.app/graph?username=arju-Hasan&theme=tokyo-night&hide_border=true)
-[![Arju Hasan's Activity Graph](https://github-activity-graph-omega.vercel.app/graph?username=arju-Hasan&theme=tokyo-night&hide_border=true)](https://github.com/arju-Hasan) -->
+[![Arju Hasan's Activity Graph](https://github-activity-graph-omega.vercel.app/graph?username=arju-Hasan&theme=tokyo-night&hide_border=true)](https://github.com/arju-Hasan)
 
 <!-- ## 📊 GitHub Stats:
 
