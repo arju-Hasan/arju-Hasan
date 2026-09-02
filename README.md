@@ -45,36 +45,17 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
   </tr>
 </table>
 
+[![Arju Hasan's Activity Graph](https://github-activity-graph-omega.vercel.app/graph?username=arju-Hasan&theme=gotham)](https://github.com/arju-Hasan)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/arju-Hasan">
-        <img
-          src="https://github-readme-stats-plum-nine.vercel.app/api?username=arju-Hasan&show_icons=true&theme=radical"
-          alt="Arju Hasan GitHub Stats"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/arju-Hasan">
-        <img
-          src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=arju-Hasan&theme=radical"
-          alt="Arju Hasan GitHub Streak"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arju-Hasan&theme=tokyonight&hide_border=true)](https://github.com/arju-Hasan)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=arju-Hasan&theme=tokyonight&hide_border=true)](https://github.com/arju-Hasan) 
 ![Arju Hasan's GitHub Activity Graph](https://github-activity-graph-omega.vercel.app/graph?username=arju-Hasan&theme=tokyo-night&hide_border=true)
+[![Arju Hasan's Activity Graph](https://github-activity-graph-omega.vercel.app/graph?username=arju-Hasan&theme=tokyo-night&hide_border=true)](https://github.com/arju-Hasan) -->
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arju-Hasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  -->
 
 
 
