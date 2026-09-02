@@ -45,7 +45,7 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
   </tr>
 </table>
 
-(https://github-readme-activity-graph.vercel.app/graph?username=arju-Hasan&theme=gotham)](https://github.com/arju-Hasan)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arju-Hasan&theme=tokyonight&hide_border=true)](https://github.com/arju-Hasan)
 
 ## 📊 GitHub Stats:
 
