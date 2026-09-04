@@ -53,7 +53,7 @@ My goal is to contribute to open-source projects, solve meaningful problems, and
 
 [![Arju Hasan's Activity Graph](https://github-activity-graph-omega.vercel.app/graph?username=arju-Hasan&theme=tokyo-night&hide_border=true)](https://github.com/arju-Hasan)
 
-<!-- ## 📊 GitHub Stats:
+
 
 ![](https://github-readme-stats.vercel.app/api?username=arju-Hasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arju-Hasan&theme=dark&hide_border=false)<br/>
