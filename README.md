@@ -1,6 +1,6 @@
 <img src="./img/Arju Hasan.png" ></img>
 
-<!-- <h1 align="center">Hi 👋, I'm Arju Hasan</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Arju Hasan Raju</h1> -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arju95/">
